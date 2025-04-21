@@ -1,7 +1,7 @@
 <h1 align="center">Genie</h1>
 <p align="center"><img src="https://github.com/tarranprior/genie/blob/main/assets/genie.png" /></p>
 
-<p align="center">🧞 Genie is an open-source levelling and rewards system for Discord, inspired by Old School RuneScape.</p>
+<p align="center">🧞 Genie is an open-source levelling and rewards system built for the Discord community, inspired by Old School RuneScape.</p>
 
 <div align="center">
 
@@ -15,6 +15,11 @@
 </div>
 
 ## Features
+
+## Usage
+
+### Experience
+The difference between *Level* $`L-1`$ and *Level* $`L`$ is <img src="https://github.com/tarranprior/genie/blob/main/assets/formula.png" />. The tables below show this experience difference for each level and also the cumulative experience from *Level 1* to *Level* $`L`$. 
 
 ## Tools
 
@@ -61,8 +66,6 @@ Preferably, you should use Poetry to run this bot for local development:
        "activity": "",
    }
    ```
-
-## Usage
 
 ## Disclaimer
 RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.
