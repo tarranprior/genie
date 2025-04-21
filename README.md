@@ -21,16 +21,54 @@
 ## Prerequisites
 
 ## Installation
+Preferably, you should use Poetry to run this bot for local development:
+
+1. Clone the repository. `git clone https://github.com/tarranprior/genie.git`
+2. Navigate to the project folder. `cd genie`
+3. Install the dependencies:
+
+    ```s
+    poetry install
+    ```
+
+    Alternatively, you can install the dependencies using pip:
+    
+    ```s
+    pip install -r requirements.txt
+    ```
 
 ## Setup
+1. Create an application at [Discord Developer Portal](https://discord.com/developers/applications). Build a bot, and copy the token.
+2. Invite the bot to your server.
+3. Update the values in [Configuration](#configuration).
+4. Run the bot:
+
+    ```s
+    poetry run python src/main.py
+    ```
 
 ## Configuration
+1. Update the values in `.env.EXAMPLE` and rename to `.env`.
+
+   ```s
+   BOT_TOKEN = 'YOUR_BOT_TOKEN'
+   BOT_OWNER = 'YOUR_USER_ID'
+   ```
+2. *Optional*: Update the activity in `config.json`.
+
+   ```json
+   {
+       "activity": "",
+   }
+   ```
 
 ## Usage
 
 ## Disclaimer
+RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.
 
 ## Support
+If you have any questions about this project, please submit an issue [here](https://github.com/tarranprior/genie/issues).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/tarranprior/genie/blob/main/LICENSE) file for details.
