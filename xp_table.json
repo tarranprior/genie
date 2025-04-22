@@ -1,0 +1,639 @@
+{
+  "experience_table": [
+    {
+      "level": 1,
+      "total_experience": 0,
+      "experience_difference": null
+    },
+    {
+      "level": 2,
+      "total_experience": 83,
+      "experience_difference": 83
+    },
+    {
+      "level": 3,
+      "total_experience": 174,
+      "experience_difference": 91
+    },
+    {
+      "level": 4,
+      "total_experience": 276,
+      "experience_difference": 102
+    },
+    {
+      "level": 5,
+      "total_experience": 388,
+      "experience_difference": 112
+    },
+    {
+      "level": 6,
+      "total_experience": 512,
+      "experience_difference": 124
+    },
+    {
+      "level": 7,
+      "total_experience": 650,
+      "experience_difference": 138
+    },
+    {
+      "level": 8,
+      "total_experience": 801,
+      "experience_difference": 151
+    },
+    {
+      "level": 9,
+      "total_experience": 969,
+      "experience_difference": 168
+    },
+    {
+      "level": 10,
+      "total_experience": 1154,
+      "experience_difference": 185
+    },
+    {
+      "level": 11,
+      "total_experience": 1358,
+      "experience_difference": 204
+    },
+    {
+      "level": 12,
+      "total_experience": 1584,
+      "experience_difference": 226
+    },
+    {
+      "level": 13,
+      "total_experience": 1833,
+      "experience_difference": 249
+    },
+    {
+      "level": 14,
+      "total_experience": 2107,
+      "experience_difference": 274
+    },
+    {
+      "level": 15,
+      "total_experience": 2411,
+      "experience_difference": 304
+    },
+    {
+      "level": 16,
+      "total_experience": 2746,
+      "experience_difference": 335
+    },
+    {
+      "level": 17,
+      "total_experience": 3115,
+      "experience_difference": 369
+    },
+    {
+      "level": 18,
+      "total_experience": 3523,
+      "experience_difference": 408
+    },
+    {
+      "level": 19,
+      "total_experience": 3973,
+      "experience_difference": 450
+    },
+    {
+      "level": 20,
+      "total_experience": 4470,
+      "experience_difference": 497
+    },
+    {
+      "level": 21,
+      "total_experience": 5018,
+      "experience_difference": 548
+    },
+    {
+      "level": 22,
+      "total_experience": 5624,
+      "experience_difference": 606
+    },
+    {
+      "level": 23,
+      "total_experience": 6291,
+      "experience_difference": 667
+    },
+    {
+      "level": 24,
+      "total_experience": 7028,
+      "experience_difference": 737
+    },
+    {
+      "level": 25,
+      "total_experience": 7842,
+      "experience_difference": 814
+    },
+    {
+      "level": 26,
+      "total_experience": 8740,
+      "experience_difference": 898
+    },
+    {
+      "level": 27,
+      "total_experience": 9730,
+      "experience_difference": 990
+    },
+    {
+      "level": 28,
+      "total_experience": 10824,
+      "experience_difference": 1094
+    },
+    {
+      "level": 29,
+      "total_experience": 12031,
+      "experience_difference": 1207
+    },
+    {
+      "level": 30,
+      "total_experience": 13363,
+      "experience_difference": 1332
+    },
+    {
+      "level": 31,
+      "total_experience": 14833,
+      "experience_difference": 1470
+    },
+    {
+      "level": 32,
+      "total_experience": 16456,
+      "experience_difference": 1623
+    },
+    {
+      "level": 33,
+      "total_experience": 18247,
+      "experience_difference": 1791
+    },
+    {
+      "level": 34,
+      "total_experience": 20224,
+      "experience_difference": 1977
+    },
+    {
+      "level": 35,
+      "total_experience": 22406,
+      "experience_difference": 2182
+    },
+    {
+      "level": 36,
+      "total_experience": 24815,
+      "experience_difference": 2409
+    },
+    {
+      "level": 37,
+      "total_experience": 27473,
+      "experience_difference": 2658
+    },
+    {
+      "level": 38,
+      "total_experience": 30408,
+      "experience_difference": 2935
+    },
+    {
+      "level": 39,
+      "total_experience": 33648,
+      "experience_difference": 3240
+    },
+    {
+      "level": 40,
+      "total_experience": 37224,
+      "experience_difference": 3576
+    },
+    {
+      "level": 41,
+      "total_experience": 41171,
+      "experience_difference": 3947
+    },
+    {
+      "level": 42,
+      "total_experience": 45529,
+      "experience_difference": 4358
+    },
+    {
+      "level": 43,
+      "total_experience": 50339,
+      "experience_difference": 4810
+    },
+    {
+      "level": 44,
+      "total_experience": 55649,
+      "experience_difference": 5310
+    },
+    {
+      "level": 45,
+      "total_experience": 61512,
+      "experience_difference": 5863
+    },
+    {
+      "level": 46,
+      "total_experience": 67983,
+      "experience_difference": 6471
+    },
+    {
+      "level": 47,
+      "total_experience": 75127,
+      "experience_difference": 7144
+    },
+    {
+      "level": 48,
+      "total_experience": 83014,
+      "experience_difference": 7887
+    },
+    {
+      "level": 49,
+      "total_experience": 91721,
+      "experience_difference": 8707
+    },
+    {
+      "level": 50,
+      "total_experience": 101333,
+      "experience_difference": 9612
+    },
+    {
+      "level": 51,
+      "total_experience": 111945,
+      "experience_difference": 10612
+    },
+    {
+      "level": 52,
+      "total_experience": 123660,
+      "experience_difference": 11715
+    },
+    {
+      "level": 53,
+      "total_experience": 136594,
+      "experience_difference": 12934
+    },
+    {
+      "level": 54,
+      "total_experience": 150872,
+      "experience_difference": 14278
+    },
+    {
+      "level": 55,
+      "total_experience": 166636,
+      "experience_difference": 15764
+    },
+    {
+      "level": 56,
+      "total_experience": 184040,
+      "experience_difference": 17404
+    },
+    {
+      "level": 57,
+      "total_experience": 203254,
+      "experience_difference": 19214
+    },
+    {
+      "level": 58,
+      "total_experience": 224466,
+      "experience_difference": 21212
+    },
+    {
+      "level": 59,
+      "total_experience": 247886,
+      "experience_difference": 23420
+    },
+    {
+      "level": 60,
+      "total_experience": 273742,
+      "experience_difference": 25856
+    },
+    {
+      "level": 61,
+      "total_experience": 302288,
+      "experience_difference": 28546
+    },
+    {
+      "level": 62,
+      "total_experience": 333804,
+      "experience_difference": 31516
+    },
+    {
+      "level": 63,
+      "total_experience": 368599,
+      "experience_difference": 34795
+    },
+    {
+      "level": 64,
+      "total_experience": 407015,
+      "experience_difference": 38416
+    },
+    {
+      "level": 65,
+      "total_experience": 449428,
+      "experience_difference": 42413
+    },
+    {
+      "level": 66,
+      "total_experience": 496254,
+      "experience_difference": 46826
+    },
+    {
+      "level": 67,
+      "total_experience": 547953,
+      "experience_difference": 51999
+    },
+    {
+      "level": 68,
+      "total_experience": 605032,
+      "experience_difference": 57079
+    },
+    {
+      "level": 69,
+      "total_experience": 668051,
+      "experience_difference": 63019
+    },
+    {
+      "level": 70,
+      "total_experience": 737627,
+      "experience_difference": 69576
+    },
+    {
+      "level": 71,
+      "total_experience": 814445,
+      "experience_difference": 76718
+    },
+    {
+      "level": 72,
+      "total_experience": 889257,
+      "experience_difference": 84812
+    },
+    {
+      "level": 73,
+      "total_experience": 992895,
+      "experience_difference": 93638
+    },
+    {
+      "level": 74,
+      "total_experience": 1096278,
+      "experience_difference": 103383
+    },
+    {
+      "level": 75,
+      "total_experience": 1210421,
+      "experience_difference": 114143
+    },
+    {
+      "level": 76,
+      "total_experience": 1336443,
+      "experience_difference": 126022
+    },
+    {
+      "level": 77,
+      "total_experience": 1475581,
+      "experience_difference": 139138
+    },
+    {
+      "level": 78,
+      "total_experience": 1629200,
+      "experience_difference": 152619
+    },
+    {
+      "level": 79,
+      "total_experience": 1798808,
+      "experience_difference": 169608
+    },
+    {
+      "level": 80,
+      "total_experience": 1986068,
+      "experience_difference": 187260
+    },
+    {
+      "level": 81,
+      "total_experience": 2192818,
+      "experience_difference": 206750
+    },
+    {
+      "level": 82,
+      "total_experience": 2421087,
+      "experience_difference": 228269
+    },
+    {
+      "level": 83,
+      "total_experience": 2673114,
+      "experience_difference": 252027
+    },
+    {
+      "level": 84,
+      "total_experience": 2951373,
+      "experience_difference": 278259
+    },
+    {
+      "level": 85,
+      "total_experience": 3258594,
+      "experience_difference": 307221
+    },
+    {
+      "level": 86,
+      "total_experience": 3597792,
+      "experience_difference": 339198
+    },
+    {
+      "level": 87,
+      "total_experience": 3972294,
+      "experience_difference": 374502
+    },
+    {
+      "level": 88,
+      "total_experience": 4385776,
+      "experience_difference": 413482
+    },
+    {
+      "level": 89,
+      "total_experience": 4842295,
+      "experience_difference": 456519
+    },
+    {
+      "level": 90,
+      "total_experience": 5346332,
+      "experience_difference": 504037
+    },
+    {
+      "level": 91,
+      "total_experience": 5902831,
+      "experience_difference": 556499
+    },
+    {
+      "level": 92,
+      "total_experience": 6517253,
+      "experience_difference": 614422
+    },
+    {
+      "level": 93,
+      "total_experience": 7195629,
+      "experience_difference": 678376
+    },
+    {
+      "level": 94,
+      "total_experience": 7944614,
+      "experience_difference": 748985
+    },
+    {
+      "level": 95,
+      "total_experience": 8771558,
+      "experience_difference": 826944
+    },
+    {
+      "level": 96,
+      "total_experience": 9684577,
+      "experience_difference": 913019
+    },
+    {
+      "level": 97,
+      "total_experience": 10692629,
+      "experience_difference": 1008052
+    },
+    {
+      "level": 98,
+      "total_experience": 11805606,
+      "experience_difference": 1112977
+    },
+    {
+      "level": 99,
+      "total_experience": 13034431,
+      "experience_difference": 1228825
+    },
+    {
+      "level": 100,
+      "total_experience": 14391160,
+      "experience_difference": 1356729
+    },
+    {
+      "level": 101,
+      "total_experience": 15889109,
+      "experience_difference": 1497949
+    },
+    {
+      "level": 102,
+      "total_experience": 17542976,
+      "experience_difference": 1635867
+    },
+    {
+      "level": 103,
+      "total_experience": 19368992,
+      "experience_difference": 1826016
+    },
+    {
+      "level": 104,
+      "total_experience": 21385073,
+      "experience_difference": 2016081
+    },
+    {
+      "level": 105,
+      "total_experience": 23611006,
+      "experience_difference": 2225933
+    },
+    {
+      "level": 106,
+      "total_experience": 26068632,
+      "experience_difference": 2457626
+    },
+    {
+      "level": 107,
+      "total_experience": 28782069,
+      "experience_difference": 2713437
+    },
+    {
+      "level": 108,
+      "total_experience": 31777943,
+      "experience_difference": 2995874
+    },
+    {
+      "level": 109,
+      "total_experience": 35085654,
+      "experience_difference": 3307711
+    },
+    {
+      "level": 110,
+      "total_experience": 38737661,
+      "experience_difference": 3652007
+    },
+    {
+      "level": 111,
+      "total_experience": 42769801,
+      "experience_difference": 4032140
+    },
+    {
+      "level": 112,
+      "total_experience": 47221641,
+      "experience_difference": 4451840
+    },
+    {
+      "level": 113,
+      "total_experience": 52136869,
+      "experience_difference": 4915228
+    },
+    {
+      "level": 114,
+      "total_experience": 57563718,
+      "experience_difference": 5426849
+    },
+    {
+      "level": 115,
+      "total_experience": 63555443,
+      "experience_difference": 5991725
+    },
+    {
+      "level": 116,
+      "total_experience": 70170840,
+      "experience_difference": 6615397
+    },
+    {
+      "level": 117,
+      "total_experience": 77474828,
+      "experience_difference": 7303988
+    },
+    {
+      "level": 118,
+      "total_experience": 85539082,
+      "experience_difference": 8064254
+    },
+    {
+      "level": 119,
+      "total_experience": 94442737,
+      "experience_difference": 8903655
+    },
+    {
+      "level": 120,
+      "total_experience": 104273167,
+      "experience_difference": 9830430
+    },
+    {
+      "level": 121,
+      "total_experience": 115126838,
+      "experience_difference": 10853671
+    },
+    {
+      "level": 122,
+      "total_experience": 127110260,
+      "experience_difference": 11983422
+    },
+    {
+      "level": 123,
+      "total_experience": 140341028,
+      "experience_difference": 13230768
+    },
+    {
+      "level": 124,
+      "total_experience": 154948977,
+      "experience_difference": 14607949
+    },
+    {
+      "level": 125,
+      "total_experience": 171077457,
+      "experience_difference": 16128480
+    },
+    {
+      "level": 126,
+      "total_experience": 188884740,
+      "experience_difference": 17807283
+    },
+    {
+      "level": 127,
+      "total_experience": 200000000,
+      "experience_difference": 11115260
+    }
+  ]
+}
