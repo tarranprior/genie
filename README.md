@@ -19,7 +19,7 @@
 ## Usage
 
 ### Experience
-The difference between *Level* $`L-1`$ and *Level* $`L`$ is <img src="https://github.com/tarranprior/genie/blob/main/assets/formula.png" width="24px" />. The tables below show this experience difference for each level and also the cumulative experience from *Level 1* to *Level* $`L`$. 
+The difference between *Level* $`L-1`$ and *Level* $`L`$ is <img src="https://github.com/tarranprior/genie/blob/main/assets/formula.png" width="92px" />. The tables below show this experience difference for each level and also the cumulative experience from *Level 1* to *Level* $`L`$. 
 
 ## Tools
 
