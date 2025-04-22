@@ -19,7 +19,7 @@
 ## Usage
 
 ### Experience
-The difference between *Level* $`L-1`$ and *Level* $`L`$ is <img src="https://github.com/tarranprior/genie/blob/main/assets/formula.png" width="96px" />. The [xp_table.json](https://github.com/tarranprior/genie/blob/main/xp_table.json) file shows this experience difference for each level, as well as the cumulative experience from *Level 1* to *Level* $`L`$.
+The difference between *Level* $`L-1`$ and *Level* $`L`$ is <img src="https://github.com/tarranprior/genie/blob/main/assets/formula.png" width="96px" />. The `xp_table.json` file shows this experience difference for each level, as well as the cumulative experience from *Level 1* to *Level* $`L`$.
 
 ```json
 {
@@ -47,37 +47,11 @@ The difference between *Level* $`L-1`$ and *Level* $`L`$ is <img src="https://gi
       "total_experience": 388,
       "experience_difference": 112
     },
-    {
-      "level": 6,
-      "total_experience": 512,
-      "experience_difference": 124
-    },
-    {
-      "level": 7,
-      "total_experience": 650,
-      "experience_difference": 138
-    },
-    {
-      "level": 8,
-      "total_experience": 801,
-      "experience_difference": 151
-    },
-    {
-      "level": 9,
-      "total_experience": 969,
-      "experience_difference": 168
-    },
 ```
 
-Graphing the experience required on a linear scale shows that the experience required is essentially exponential.
-
-![](https://oldschool.runescape.wiki/images/thumb/Linear.png/500px-Linear.png)
-
-Graphing the same data on a logarithmic scale shows that the function starts being exponential around level 15.
-
-![](https://oldschool.runescape.wiki/images/thumb/Log.png/500px-Log.png)
-
 ## Tools
+
+* [Discord.py](https://github.com/Rapptz/discord.py)
 
 ## Prerequisites
 
