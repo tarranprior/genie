@@ -1,5 +1,3 @@
-<p align="center"><img src="https://github.com/tarranprior/genie/blob/main/assets/genie.png" /></p>
-
 <h1 align="center">Genie</h1>
 <p align="center">Genie is an open-source levelling and rewards system built for the Discord community, inspired by Old School RuneScape.</p>
 
@@ -88,6 +86,8 @@ Use [Poetry](https://python-poetry.org/) to run this bot for local development:
    ```s
    BOT_TOKEN = 'YOUR_BOT_TOKEN'
    BOT_OWNER = 'YOUR_USER_ID'
+   DATABASE_USERNAME = 'YOUR_DATABASE_USERNAME'
+   DATABASE_PASSWORD = 'YOUR_DATABASE_PASSWORD'
    ```
 2. *Optional*: Update the activity in `config.json`.
 
