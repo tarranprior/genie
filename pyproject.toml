@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "genie"
+name = "runescape-levels"
 version = "0.1.0"
-description = "Genie is an open-source levelling and rewards system built for the Discord community, inspired by Old School RuneScape."
+description = "An open-source levelling and rewards system built for the Discord community, inspired by Old School RuneScape."
 authors = ["Tarran Prior <Tarranprior@protonmail.com>"]
 license = "MIT License"
 readme = "README.md"
