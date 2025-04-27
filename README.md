@@ -1,5 +1,5 @@
-<h1 align="center">Genie</h1>
-<p align="center">Genie is an open-source levelling and rewards system built for the Discord community, inspired by Old School RuneScape.</p>
+<h1 align="center">RuneScape Levels</h1>
+<p align="center">An open-source levelling and rewards system built for the Discord community, inspired by Old School RuneScape.</p>
 
 <div align="center">
 
@@ -17,7 +17,9 @@
 ## Usage
 
 ### Experience
-The difference between *Level* $`L-1`$ and *Level* $`L`$ is <img src="https://github.com/tarranprior/genie/blob/main/assets/formula.png" width="96px" />. The `xp_table.json` file shows this experience difference for each level, as well as the cumulative experience from *Level 1* to *Level* $`L`$.
+The difference between *Level* $`L-1`$ and *Level* $`L`$ is $`\frac{1}{4} \left( L - 1 + 300 \cdot 2 \frac{(L-1)}{7} \right)`$.
+
+The `xp_table.json` file shows this experience difference for each level, as well as the cumulative experience from *Level 1* to *Level* $`L`$.
 
 ```json
 {
@@ -47,11 +49,18 @@ The difference between *Level* $`L-1`$ and *Level* $`L`$ is <img src="https://gi
     },
 ```
 
+## Prerequisites
+
+* Python 3.11 +
+* [Poetry](https://python-poetry.org/docs) (or the [pip](https://pypi.org/project/pip/) package management tool).
+* [PostgreSQL](https://www.postgresql.org/)
+
 ## Tools
 
 * [Discord.py](https://github.com/Rapptz/discord.py)
-
-## Prerequisites
+* [asyncpg](https://github.com/MagicStack/asyncpg)
+* [Loguru](https://github.com/Delgan/loguru)
+* [Python-dotenv](https://github.com/theskumar/python-dotenv)
 
 ## Installation
 Use [Poetry](https://python-poetry.org/) to run this bot for local development:
