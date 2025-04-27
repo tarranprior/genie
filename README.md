@@ -3,12 +3,12 @@
 
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/tarranprior/genie)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/tarranprior/genie)
-![GitHub repo size](https://img.shields.io/github/repo-size/tarranprior/genie)
-![GitHub forks](https://img.shields.io/github/forks/tarranprior/genie)
-![GitHub Repo stars](https://img.shields.io/github/stars/tarranprior/genie)
-![GitHub watchers](https://img.shields.io/github/watchers/tarranprior/genie)
+![GitHub License](https://img.shields.io/github/license/tarranprior/runescape-levels)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/tarranprior/runescape-levels)
+![GitHub repo size](https://img.shields.io/github/repo-size/tarranprior/runescape-levels)
+![GitHub forks](https://img.shields.io/github/forks/tarranprior/runescape-levels)
+![GitHub Repo stars](https://img.shields.io/github/stars/tarranprior/runescape-levels)
+![GitHub watchers](https://img.shields.io/github/watchers/tarranprior/runescape-levels)
 
 </div>
 
@@ -110,7 +110,7 @@ Use [Poetry](https://python-poetry.org/) to run this bot for local development:
 RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.
 
 ## Support
-If you have any questions about this project, please submit an issue [here](https://github.com/tarranprior/genie/issues).
+If you have any questions about this project, please submit an issue [here](https://github.com/tarranprior/runescape-levels/issues).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/tarranprior/genie/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/tarranprior/runescape-levels/blob/main/LICENSE) file for details.
