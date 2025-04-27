@@ -1,0 +1,19 @@
+{
+    "experience_table": {
+        "level":
+        {
+            "type": "INTEGER",
+            "constraints": "PRIMARY KEY"
+        },
+        "total_experience":
+        {
+            "type": "INTEGER",
+            "constraints": "NOT NULL"
+        },
+        "experience_difference":
+        {
+            "type": "INTEGER",
+            "constraints": "DEFAULT 0"
+        }
+    }
+}
